@@ -1,0 +1,15 @@
+{
+  "name": "progetto-iota",
+  "version": "1.0.0",
+  "description": "implementazione caso d'uso iota",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Federico Maffeo",
+  "license": "ISC",
+  "dependencies": {
+    "@iota/converter": "^1.0.0-beta.30",
+    "@iota/core": "^1.0.0-beta.30"
+  }
+}
